@@ -115,6 +115,11 @@ app.get('/student/search',async(req,res)=>{
             `select * from student where course = $1`,
             [course]
         )
+        if(re.rowCount<1){
+            return res.json({
+                message:'no such course'
+            })
+        }
         res.json({
             message:"value searched",
             data:re.rows
