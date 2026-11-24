@@ -8,6 +8,6 @@ output of the api`s ->
 
 <img width="1680" height="1050" alt="Screenshot 2026-11-24 at 7 59 31 PM" src="https://github.com/user-attachments/assets/116dd2b4-4942-4549-a5c4-2e28b5c178cd" />
 <img width="1680" height="1050" alt="Screenshot 2026-11-24 at 8 04 33 PM" src="https://github.com/user-attachments/assets/dd8ad3af-982f-4338-85a6-bab664a25142" />
-<img width="1680" height="1050" alt="Screenshot 2026-11-24 at 8 05 13 PM" src="https://github.com/user-attachments/assets/d177be97-9d1b-46bf-ab30-7390b28b83e7" />
+
 <img width="1680" height="1050" alt="Screenshot 2026-11-24 at 8 05 54 PM" src="https://github.com/user-attachments/assets/0a7a1e6a-fd17-46c3-968e-e6a22bd51b51" />
 <img width="1680" height="1050" alt="Screenshot 2026-11-24 at 8 08 38 PM" src="https://github.com/user-attachments/assets/20f1e95d-f7f7-4f66-8a85-007fc8f25e5f" />
